@@ -1,0 +1,9 @@
+body {
+    background-color: rgba(128, 128, 128, 0.678);
+}
+
+.box-carousel{
+    margin-top: 1%;
+    border: solid black 2px;
+    padding: 0;
+}
