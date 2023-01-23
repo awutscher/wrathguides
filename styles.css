@@ -10,4 +10,6 @@ body {
 
 .bgulduar{
     background-image: url("https://awutscher.github.io/wrathguides/images/ulduar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
